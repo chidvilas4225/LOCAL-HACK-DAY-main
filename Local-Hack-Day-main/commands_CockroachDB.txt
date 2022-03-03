@@ -1,0 +1,5 @@
+CREATE DATABASE rangers;
+CREATE TABLE rangers_data(name STRING,starting_year INT);
+
+INSERT INTO rangers_data (name, starting_year) VALUES ('Ninja storm',2003), ('Dino Thunder', 2004),('SPD', 2005),('Mystic Force', 2006),('Operatio
+n Overdrive', 2007),('Jungle Furry', 2008),('Samurai', 2011);
